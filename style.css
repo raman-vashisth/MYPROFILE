@@ -56,3 +56,48 @@ h3{
 
 
 }
+
+.skills{
+  color:#4d94ff;
+
+}
+
+#divide{
+
+  height: 0px;
+  width: 15%;
+  border:10px;
+  border-color:#b8b894;
+  border-top-style:dotted;
+
+}
+.skill-sets{
+  width: 60%;
+  margin: 100px auto 150px auto;
+}
+.skill-heading{
+  color:#4d94ff;
+  text-align: left;
+}
+.skill-text{
+color:  #5c5c3d;
+text-align: left;
+line-height: 2
+}
+.skill-images{
+  width:20%;
+  border-radius: 80%;
+float: left;
+margin-right: 29px;
+}
+
+.skill-imagesl{
+  width:20%;
+  border-radius: 80%;
+float: right;
+margin-left: 29px;
+}
+#diff{
+    width:15%;
+
+}
